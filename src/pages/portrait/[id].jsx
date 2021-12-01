@@ -158,7 +158,7 @@ const styles = (theme) => ({
     display: 'flex',
     flexDirection: 'row',
     alignItems: 'center',
-    fontFamily: 'FrederickatheGreat'
+    fontFamily: 'Arial'
   },
 
   name: {
