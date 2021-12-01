@@ -120,7 +120,7 @@ const styles = (theme) => ({
     display: 'flex',
     flexDirection: 'row',
     alignItems: 'center',
-    fontFamily: 'Fredericka the Great',
+    fontFamily: 'Fruktur',
     userSelect: 'none'
   },
   diceContainer: {
